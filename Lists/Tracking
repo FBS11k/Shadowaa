@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 64,617
-# Updated: 2/29/2024  14:16 (2:16 PM CST)
+# Domains: 64,620
+# Updated: 3/1/2024  16:08 (4:08 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -41246,6 +41246,7 @@ pleasantpump.com
 plerdy.com
 plexa.io
 plg3-research.epson.biz
+pl.gopulse.com
 pl.kukaj.to
 pl.nezbeda.dev
 plotparent.com
@@ -44709,6 +44710,8 @@ sig.ig.com
 sig.nadex.com
 signal-ai.com
 signalmedia.co
+signal-r-hub-bg.advisorengine.com
+signal-r-hub-blue.advisorengine.com
 signals-analytics.com
 signifyd.com
 signpost.com
