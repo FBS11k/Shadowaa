@@ -26,6 +26,7 @@ amdsurveys.com
 amt-games.com
 androidapi.mxplay.com
 android.apis.google.com
+androidattestationvalidation-pa.googleapis.com
 androidc.mxplay.com
 android-context-data.googleapis.com
 androidresumeonreboot-pa.googleapis.com
@@ -192,6 +193,7 @@ deviceintegritytokens-pa.googleapis.com
 device-provisioning.googleapis.com
 df-staging.dell.com
 dir-apis.samsungdm.com
+discover-pa.googleapis.com
 djinnworks.at
 dkgamedev.com
 dl.airdroid.com
@@ -635,6 +637,7 @@ poll-maker.com
 popup.withgoogle.com
 print-data.houston.hp.com
 privacy.outdoorsg.com
+proactivebackend-pa.googleapis.com
 prod.detectportal.prod.cloudops.mozgcp.net
 prod.tl.avira.com
 product.sn.eamobile.com
