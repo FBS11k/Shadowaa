@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,750
-# Updated: 3/6/2024  08:47 (8:47 AM CST)
+# Domains: 12,752
+# Updated: 3/6/2024  12:28 (12:28 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1601,6 +1601,7 @@ bradforddanes.com
 braethorn.com
 brainbrave.com
 braioncalit.com
+brandclearrance.com
 brands-deals.com
 brands-sales.com
 bransontimes.com
@@ -12532,6 +12533,7 @@ worldautoinspection.com
 worldclonecards.com
 worldcourierxpresslogistics.com
 worldglobedocuments.com
+worldgunstore.com
 worldieltshelpers.com
 worldmedspharma.com
 worldmulticreditunion.com

@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,178
-# Updated: 3/4/2024  12:45 (12:45 PM CST)
+# Domains: 2,189
+# Updated: 3/6/2024  12:28 (12:28 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -188,6 +188,7 @@ agileurbia.com
 agmd.win
 agoz.me
 ai6.net
+ai.blendnow.com
 aiecj2.com
 aim2.cc
 ajher.com
@@ -996,6 +997,7 @@ linkfat.com
 linkfly.app
 linkfr.ee
 linkf.su
+link.goglogo.com
 linkgrab.top
 link.gy
 linkia.co
@@ -1032,6 +1034,7 @@ linkthis.link
 linkunshorten.com
 linkvp.com
 linky.cc
+link.zodia.studio
 linp.ir
 linq.ist
 lintlink.com
@@ -1136,6 +1139,7 @@ mi3s.one
 microlinks.io
 midiavip.com
 miffy.me
+mightyurl.mightyscripts.xyz
 mihan.link
 mii.pm
 mikgr.si
@@ -1420,6 +1424,7 @@ redirigere.com
 redir.is
 redirme.com
 reel.io
+re.johnhughson.com
 relink.host
 remwoodworkingmachineexpo.com
 repackert.com
@@ -1534,6 +1539,7 @@ shorrty.com
 short1.link
 short24.pw
 sh-ort.app
+short.assleo.icu
 shortbe.com
 short.bid
 shortclick.com
@@ -1545,6 +1551,7 @@ shortenedurl.me
 shortener.net
 shortenerreviews.com
 shorteners.net
+shortener.winplaybox.in
 shortenly.net
 shortenme.co
 shortenme.io
@@ -1707,6 +1714,7 @@ srturl.cc
 srturl.xyz
 ss88.my
 s.sebald.com
+s.skip.bh
 ssl-check-links.info
 stack.im
 statistics4u.net
@@ -1740,6 +1748,7 @@ swi.nu
 swr1.cc
 syr.us
 szag.link
+s.zazuko.com
 t2m.io
 t2mio.com
 tahmil.net
@@ -1812,6 +1821,7 @@ tinyurlwebsite.com
 tinyurl.win
 tinyurlz.co
 tiny.us
+tiny.zodia.studio
 t.iotex.me
 tipeos.com
 tisfri.se
@@ -1924,6 +1934,7 @@ upriserz.link
 upyun.online
 ur1.lt
 ur.fish
+url.1.hubs.vn
 url2.in
 url4.org
 url4.uk
