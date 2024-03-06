@@ -1,8 +1,8 @@
 #
 #    File: Apple
 #    Info: Bloat
-# Domains: 183
-# Updated: 3/4/2024  17:36 (5:36 PM CST)
+# Domains: 190
+# Updated: 3/6/2024  17:10 (5:10 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -54,12 +54,15 @@ api2.smoot.apple.com                   # Spotlight Suggestions
 ###############################################################################################
 
 
+amp-account.apps.apple.com
+amp-api.apps.apple.com
 api-edge.apps.apple.com
 apple.com.edgekey.net.globalredir.akadns.net
 apple-dns.net
 app-site-association.cdn-apple.com
 autolinkmaker.itunes.apple.com
 basejumper.apple.com
+buy.apps.apple.com
 carrierbundle.itunes.apple.com
 cdn.apple-cloudkit.com
 cdn.apple-livephotoskit.com
@@ -83,6 +86,7 @@ edge.icloud.apple-dns.net
 fdereg.apple.com
 fe.apple-dns.net
 fides-pol.apple.com
+fpinit.itunes.apple.com
 friend.gc.apple.com
 gateway-carry.icloud.com
 gil.apple.com.akadns.net
@@ -112,6 +116,7 @@ iphone-services.apple.com
 iphone-wu.apple.com
 iprofiles.apple.com
 itunes.apple.com.edgekey.net
+kt-prod.ess.apple.com
 limit.itunesu.com
 link.gc.apple.com
 lookup-api.apple.com
@@ -141,6 +146,7 @@ pd-st.itunes.apple.com
 play.itunes.apple.com
 play.itunes.apple.com.edgesuite.net
 porco.apple.com
+prd-usw2-requestattribution-iad.apple.com
 proddav.apple.com
 profile.ess.apple.com
 pubsbuild.apple.com
@@ -148,6 +154,7 @@ query.ess.apple.com
 rabat.apple.com
 radio.itunes.apple.com
 redcarpet.apple.com
+safety-alert.apple.com
 sandbox.gc.apple.com
 sandbox.itunes.apple.com
 scento.apple.com

@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 889
-# Updated: 3/4/2024  17:36 (5:36 PM CST)
+# Domains: 893
+# Updated: 3/6/2024  17:10 (5:10 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -100,7 +100,7 @@ webtype.com                                             #Font      WebType
 fonts.nccdn.net                                         #Font    ?
 fonts.xidraslbs.com                                     #Font    ?
 fonts2.tildacdn.com                                     #Font    ?
-font.im
+font.im                                                 #Font    ?
 bunnyfonts.b-cdn.net                                    #Font  Specific
 clyde-fonts.s3.amazonaws.com                            #Font  Specific
 comm-files-universityofconn.netdna-ssl.com              #Font  Specific
@@ -119,6 +119,7 @@ fonts.channel4.com                                      #Font  Specific
 fonts.dzone.com                                         #Font  Specific
 fonts.ea.com.c.footprint.net                            #Font  Specific
 fonts.ea.com                                            #Font  Specific
+fonts.evitecdn.com                                      #Font  Specific
 fonts.fandango.com                                      #Font  Specific
 fonts.foxsports.com                                     #Font  Specific
 fonts.hamburg.de                                        #Font  Specific
@@ -126,6 +127,7 @@ fonts.intercomcdn.com                                   #Font  Specific
 fonts.iu.edu                                            #Font  Specific
 fonts.jimstatic.com                                     #Font  Specific
 fonts.laterpay.net                                      #Font  Specific
+fonts.logoscdn.com                                      #Font  Specific
 fonts.motorcar.com                                      #Font  Specific
 fonts.mtx.com                                           #Font  Specific
 fonts.mybet.com                                         #Font  Specific
@@ -135,6 +137,7 @@ fonts.qmusic.be                                         #Font  Specific
 fonts.qualifio.com                                      #Font  Specific
 fonts.r7.com                                            #Font  Specific
 fonts.ralphlauren.com                                   #Font  Specific
+fonts.sage.com                                          #Font  Specific
 fonts.shopltk.com                                       #Font  Specific
 fonts.sidearmsports.com                                 #Font  Specific
 fonts.sitebuilderhost.net                               #Font  Specific
@@ -142,6 +145,7 @@ fonts.smdg.ca                                           #Font  Specific
 fonts.sony.net                                          #Font  Specific
 fonts.staticworld.net                                   #Font  Specific
 fonts.tildacdn.com                                      #Font  Specific
+fonts.ub-assets.com                                     #Font  Specific
 fonts.voxmedia.com                                      #Font  Specific
 fonts.walmart.com                                       #Font  Specific
 fonts-which-co-uk.s3.amazonaws.com                      #Font  Specific

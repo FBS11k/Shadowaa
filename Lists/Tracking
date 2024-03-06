@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 64,641
-# Updated: 3/6/2024  10:09 (10:09 AM CST)
+# Domains: 64,656
+# Updated: 3/6/2024  17:10 (5:10 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -55,6 +55,7 @@
 1-instant.okcupid.com
 1kings847.com
 1l-hit.mail.ru
+1l-hit.my.games
 1.librestream.com
 1mm.fr
 1nr.io
@@ -2419,6 +2420,7 @@ affiliate.ouchi.coop
 affiliate.petitwedding.com
 affiliates.cdkeys.com
 affiliates.hola.org
+affiliate.streamingvideoprovider.com
 affiliates-us.invoxia.com
 affiliate.taihoshop.jp
 affiliatetracking.com
@@ -13377,6 +13379,7 @@ bipp.io
 bi.pst.tech
 birdanalytics.ai
 bird.brondby.com
+birdeatsbug.com
 bird.money
 bird.recruitkit.com.au
 bird.webitizevoice.com
@@ -15068,6 +15071,7 @@ cmp.cdn.thesun.co.uk
 cmp.dreamlab.pl
 cmp.lemonde.fr
 cmpnet.com
+cm.provhealth.org
 cmq.christinemcqueen.com.au
 cms-clickmap-prod.us-west-2.web.dealer.com
 c.msn.com
@@ -17690,6 +17694,7 @@ dp.shoprunner.com
 d.putnam.com
 dq0trk.com
 dq95d35.com
+dqecz.titan.fitness
 dql2clk.com
 dr3fr5q4g2ul9.cloudfront.net
 dr4qe3ddw9y32.cloudfront.net
@@ -21386,6 +21391,7 @@ hystericalcloth.com
 hystericalfinger.com
 hystericalhelp.com
 hzstats.com
+hz-telemetry.adobe.io
 i0.cz
 i122.angelnexus.com
 i2gtrk.com
@@ -26058,6 +26064,7 @@ landfowl.planetmars.news
 landfowl.typegang.com
 landing.bonitasoft.com
 landing.copastur.com.br
+landingcube.com
 landing.daikinapplied.com
 landing.eimparis.com
 landing.essentialstaffcare.com
@@ -34757,6 +34764,7 @@ partanalytics.com
 partenariats.fft.fr
 particularaudience.com
 particuliers2.geg.fr
+partnerboost.com
 partnerize.com
 partner.kry.de
 partner.linkfire.com
@@ -40680,6 +40688,7 @@ pixel.ipinfo.io
 pixel.irblindado.com
 pixel.jachsonrocha.com.br
 pixel.jacintocosta.com.br
+pixel.javycoffee.com
 pixel.jeitodeviverfamilia.com.br
 pixel.jhonnymakis.com.br
 pixel.jornadaessencial.com.br
@@ -44011,6 +44020,7 @@ searchcloudstorage.com
 search.graffittibooks.com
 search.homepartners.com
 searchiq.co
+searchiq.io
 searchlistening.com
 searchmetrics.com
 searchstax.com
@@ -50165,6 +50175,7 @@ stats.dehosted.net
 stats.deichtorhallen.de
 stats.delattre.de
 stats.delinie-ict.nl
+stats.dell.com
 stats.delobel-industry.com
 stats.dembach.eu
 stats.demirtopreziosi.it
@@ -55684,6 +55695,7 @@ st.koodomobile.com
 st.mashable.com
 st.mazdausa.com
 stmg-prod.mirror.co.uk
+stmg-prod.themirror.com
 stms.53.com
 st.mubi.com
 st.net-factory.de
@@ -58525,6 +58537,7 @@ uberflip.com
 ubermedia.com
 ubimo.com
 ubiquitousyard.com
+ubistatic-a.ubisoft.com
 ubmconferencesasean.com
 ubmlive.com
 ubm-us.net
@@ -59785,6 +59798,7 @@ westarmedia.com
 we-stats.com
 westats.dev
 wetcj.site
+wetracked.io
 wetracker.azurewebsites.net
 we.turnto.com
 we.zebranding.com
@@ -59829,6 +59843,7 @@ whatsmyip.org
 whatsmyip.vertigo-games.com
 whatsnextinnatural.com
 wheeleradvertisingcqstats.com
+wheelhousedmg.com
 wheelioapp.azureedge.net
 whenu.com
 wheredoyoucomefrom.ovh

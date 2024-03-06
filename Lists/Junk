@@ -1,9 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 216
-# Updated: 12/28/2023  12:22 (12:22 PM CST)
-# Creator: ShadowWhisperer (Sean H.)
+# Domains: 217
+# Updated: 3/6/2024  17:10 (5:10 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -145,6 +144,7 @@ sgsnssdk.com                                   #Company - Lemon, Inc. - TikTok
 tik-tokapi.com                                 #Company - TikTok LTD  - TikTok
 tiktok-apis.com                                #Company - Lemon, Inc. - TikTok
 tiktokv.us                                     #Company - TikTok Inc  - TikTok
+tiktokw.us                                     #Company - TikTok LTD  - TikTok
 ttlivecdn.com                                  #Company - Lemon, Inc. - TikTok
 ttwstatic.com                                  #Company - Lemon, Inc. - TikTok
 xzcs3zlph.com                                  #Company - TikTok LTD  - TikTok

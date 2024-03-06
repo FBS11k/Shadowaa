@@ -1,3 +1,5 @@
+amp-account.apps.apple.com
+amp-api.apps.apple.com
 aolauth.icloud.com
 aolauthtest.icloud.com
 apfw.apple.com
@@ -14,6 +16,7 @@ apsu.apple.com
 attwifi.apple.com
 autolinkmaker.itunes.apple.com
 basejumper.apple.com
+buy.apps.apple.com
 captive.apple.com
 captive.g.aaplimg.com
 carrierbundle.itunes.apple.com
@@ -43,6 +46,7 @@ fbs.smoot.apple.com
 fdereg.apple.com
 fe.apple-dns.net
 fides-pol.apple.com
+fpinit.itunes.apple.com
 friend.gc.apple.com
 gateway-carry.icloud.com
 gil.apple.com.akadns.net
@@ -74,6 +78,7 @@ iphone-services.apple.com
 iphone-wu.apple.com
 iprofiles.apple.com
 itunes.apple.com.edgekey.net
+kt-prod.ess.apple.com
 limit.itunesu.com
 link.gc.apple.com
 lookup-api.apple.com
@@ -106,6 +111,7 @@ pd-st.itunes.apple.com
 play.itunes.apple.com
 play.itunes.apple.com.edgesuite.net
 porco.apple.com
+prd-usw2-requestattribution-iad.apple.com
 proddav.apple.com
 profile.ess.apple.com
 proxy.safebrowsing.apple
@@ -118,6 +124,7 @@ rabat.apple.com
 radio.itunes.apple.com
 redcarpet.apple.com
 safebrowsing.apple
+safety-alert.apple.com
 sandbox.gc.apple.com
 sandbox.itunes.apple.com
 scento.apple.com

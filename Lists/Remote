@@ -1,9 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 127
-# Updated: 12/13/2023  17:16 (5:16 PM CST)
-# Creator: ShadowWhisperer (Sean H.)
+# Domains: 128
+# Updated: 3/6/2024  17:10 (5:10 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -126,6 +125,7 @@ swi-rc.com
 system-monitor.com
 teamviewer.cn
 teamviewer.com
+terminalserviceplus.com
 tigervnc.org
 tightvnc.com
 todesk.com
