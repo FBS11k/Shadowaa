@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,189
-# Updated: 3/6/2024  12:28 (12:28 PM CST)
+# Domains: 2,190
+# Updated: 3/7/2024  17:48 (5:48 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1776,6 +1776,7 @@ tfg2000.de
 tfushort.com
 tg.pe
 tharp.me
+thebindaas.com
 thecanvaprints.com
 thefood2.com
 thefunkymonkey.lu

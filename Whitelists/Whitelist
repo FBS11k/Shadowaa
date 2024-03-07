@@ -249,7 +249,8 @@ xsts.auth.xboxlive.com                              #Microsoft   Windows 10 Stor
 fe2cr.update.microsoft.com                          #Microsoft   Windows 10 Updates
 slscr.update.microsoft.com                          #Microsoft   Windows 10 Updates
 title.auth.xboxlive.com                             #Microsoft   Windows 10 Xbox Login
-download.windowsupdate.com                          #Microsoft   Windows Updates
+download.windowsupdate.com                          #Microsoft   Windows Updates (Probably doesn't break anything)
+tsfe.trafficshaping.dsp.mp.microsoft.com            #Microsoft   Windows Updates
 update.microsoft.com                                #Microsoft   Windows Updates
 windowsupdate.com                                   #Microsoft   Windows Updates
 msagfx.live.com                                     #Microsoft   Windows 10 (Initial setup) *User creation

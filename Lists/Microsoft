@@ -1,9 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 676
-# Updated: 1/17/2024  23:00 (11:00 PM CST)
-# Creator: ShadowWhisperer (Sean H.)
+# Domains: 675
+# Updated: 3/7/2024  17:48 (5:48 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -704,7 +703,6 @@ trafficmanager.net
 trafficshaping.dsp.mp.microsoft.com
 troubleshooting.microsoft.com
 trustwave.blob.core.windows.net
-tsfe.trafficshaping.dsp.mp.microsoft.com
 uasprod.blob.core.windows.net
 ugcorigin.s-microsoft.com
 uksouth.api.cognitive.microsoft.com
