@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 64,666
-# Updated: 3/8/2024  10:18 (10:18 AM CST)
+# Domains: 64,667
+# Updated: 3/8/2024  13:05 (1:05 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -17420,6 +17420,7 @@ dimml.io
 dingo.hexocene.com
 dingo.moehring.dev
 ding.wix.com
+dinnerquartz.com
 dinnerware.verterra.com
 dip.aami.com.au
 dip.gio.com.au

@@ -32,6 +32,7 @@ all4net sro                                                                     
 alphabet partner sro                                                                    #Generic
 amreg                                                                                   #Generic
 anonymize inc                                                                           #Generic
+anonymize llc                                                                           #Generic
 anonymouse domains sro                                                                  #Generic
 antee sro                                                                               #Generic
 argewebhosting.com                                                                      #Generic
@@ -126,6 +127,7 @@ domain name administrator law department                                        
 domain name department                                                                  #Generic
 domain name                                                                             #Generic
 domain name manager                                                                     #Generic
+domain name services limited                                                            #Generic
 domain names                                                                            #Generic
 domain privacy                                                                          #Generic
 domain privacy ltd                                                                      #Generic
@@ -328,6 +330,7 @@ oneandone private registration                                                  
 onecom as                                                                               #Generic
 onecz sro                                                                               #Generic
 onesolution sro                                                                         #Generic
+online ltd                                                                              #Generic
 orazi sro                                                                               #Generic
 organization                                                                            #Generic
 other none given                                                                        #Generic
@@ -638,14 +641,16 @@ smartyads inc                                 #Ad_SmartyAds
 infinite connections inc                      #Dating_Adult
 ods online dating systems ltd                 #Dating_Adult2
 people media inc                              #Dating_PeopleMedia
-zao pao                                       #Gambling_ZaoPao
-grand battery holdings limited                #Gambling_GrandBattery
-cogaming ltd                                  #Gambling_CoGaming
-goto entertainment                            #Gambling_GotoEntertain
-8ball games ltd                               #Gambling_8ball
-gateway casinos and entertainment limited     #Gambling_Gateway
-gateway casinos gateway casinos               #Gambling_Gateway
-rational intellectual holdings limited        #Gambling_PokerStars
+8ball games ltd                               #Gambling
+casino club sociedad anonima                  #Gambling
+casino guichard perrachon                     #Gambling
+cogaming ltd                                  #Gambling
+gateway casinos and entertainment limited     #Gambling
+gateway casinos gateway casinos               #Gambling
+goto entertainment                            #Gambling
+grand battery holdings limited                #Gambling
+rational intellectual holdings limited        #Gambling
+zao pao                                       #Gambling
 li yong yi                                    #Scam_Possible
 yahoo ad tech llc                             #Possible-Ad_Yahoo
 nva online advertising bv                     #Possible-Adult
@@ -670,6 +675,10 @@ british airways plc                                                 #Company [Ai
 cathay pacific airways                                              #Company [Airport] Cathay Pacific Airways
 cathay pacific airways limited                                      #Company [Airport] Cathay Pacific Airways
 cathay pacific airways ltd                                          #Company [Airport] Cathay Pacific Airways
+collins aerospace                                                   #Company [Airport] Collins Aerospace
+egis airport operation                                              #Company [Airport] Egis Airport
+howmet aerospace inc                                                #Company [Airport] Howmet Aerospace
+jetblue airways corporation                                         #Company [Airport] JetBlue Airways
 jetstar airways pty limited                                         #Company [Airport] Jetstar Airways
 klm royal dutch airlines                                            #Company [Airport] KLM Royal Dutch Airlines
 qantas airways limited                                              #Company [Airport] Qantas Airways
@@ -738,6 +747,7 @@ softbank corp                                                       #Company [Ba
 the standard bank of south africa limited                           #Company [Bank] Standard Bank
 state bank of india                                                 #Company [Bank] State Bank of India
 suntrust bank                                                       #Company [Bank] Suntrust Bank
+texas capital bank na                                               #Company [Bank] Texas Capital Bank
 the torontodominion bank                                            #Company [Bank] Toronto-Dominion Bank
 branch banking and trust company                                    #Company [Bank] Truist Bank (BB&T)
 truist bank inc                                                     #Company [Bank] Truist Bank
@@ -794,6 +804,7 @@ diageo plc                                                          #Company [Dr
 diageo scotland limited                                             #Company [Drink] Diageo
 labatt breweries of canada lp                                       #Company [Drink] Labatt Brewing
 labatt brewing company limited                                      #Company [Drink] Labatt Brewing
+oriental brewery co ltd                                             #Company [Drink] Oriental Brewery Co.
 pabst brewing company llc                                           #Company [Drink] Pabst
 ltd pepsico holdings russia                                         #Company [Drink] Pepsi
 pepsico canada ulc                                                  #Company [Drink] Pepsi
@@ -818,8 +829,10 @@ national geographic society                                                  #Co
 sacramento county office of education                                        #Company [Education] Sacramento County Office of Education
 arizona state university                                                     #Company [Education] College
 baylor university                                                            #Company [Education] College
+bemidji state university                                                     #Company [Education] College
 boston university                                                            #Company [Education] College
 cambridge university press                                                   #Company [Education] College
+colorado state university                                                    #Company [Education] College
 columbia university                                                          #Company [Education] College
 cornell university                                                           #Company [Education] College
 duke university                                                              #Company [Education] College
@@ -829,25 +842,36 @@ institute of geology at tallinn university of technology                     #Co
 iowa state university                                                        #Company [Education] College
 iowa state university of science and technology                              #Company [Education] College
 johns hopkins university                                                     #Company [Education] College
+kansas state university                                                      #Company [Education] College
 michigan state university                                                    #Company [Education] College
 michigan technological university                                            #Company [Education] College
+mississippi state university                                                 #Company [Education] College
+missouri state university                                                    #Company [Education] College
+montana state university                                                     #Company [Education] College
+montclair state university                                                   #Company [Education] College
 moscow state university of psychology and education                          #Company [Education] College
 newcastle university                                                         #Company [Education] College
+new mexico state university                                                  #Company [Education] College
 new york university                                                          #Company [Education] College
 northwestern university                                                      #Company [Education] College
 open university of kenya                                                     #Company [Education] College
 oregon state university                                                      #Company [Education] College
+penn state university                                                        #Company [Education] College
 queensland university of technology                                          #Company [Education] College
 rutgers university                                                           #Company [Education] College
 sref university of georgia                                                   #Company [Education] College
 stanford university                                                          #Company [Education] College
 stellenbosch university                                                      #Company [Education] College
+stpetersburg state university                                                #Company [Education] College
 the johns hopkins university                                                 #Company [Education] College
+the ohio state university                                                    #Company [Education] College
 the university of auckland                                                   #Company [Education] College
 the university of queensland                                                 #Company [Education] College
 the university of western australia                                          #Company [Education] College
 thomas jefferson university                                                  #Company [Education] College
 trustees of boston university                                                #Company [Education] College
+universiteit stellenbosch                                                    #Company [Education] College
+universiteit stellenbosch innovus                                            #Company [Education] College
 university health network                                                    #Company [Education] College
 university of aberdeen                                                       #Company [Education] College
 university of adelaide                                                       #Company [Education] College
@@ -1352,25 +1376,14 @@ university of zululand                                                       #Co
 university of zurich geography department                                    #Company [Education] College
 utah state university                                                        #Company [Education] College
 wageningen university research centre                                        #Company [Education] College
+washington state university                                                  #Company [Education] College
 washington university                                                        #Company [Education] College
+wayne state university                                                       #Company [Education] College
 weill medical college of cornell university                                  #Company [Education] College
 western illinois university cait                                             #Company [Education] College
+winona state university                                                      #Company [Education] College
 yale university                                                              #Company [Education] College
 york university                                                              #Company [Education] College
-bemidji state university                                                     #Company [Education] College
-colorado state university                                                    #Company [Education] College
-kansas state university                                                      #Company [Education] College
-mississippi state university                                                 #Company [Education] College
-missouri state university                                                    #Company [Education] College
-montana state university                                                     #Company [Education] College
-montclair state university                                                   #Company [Education] College
-new mexico state university                                                  #Company [Education] College
-penn state university                                                        #Company [Education] College
-stpetersburg state university                                                #Company [Education] College
-the ohio state university                                                    #Company [Education] College
-washington state university                                                  #Company [Education] College
-wayne state university                                                       #Company [Education] College
-winona state university                                                      #Company [Education] College
 vattenfall ab                                                       #Company [Electrical] Vattenfall AB
 bosch rexroth ag                                                    #Company [Engineering, Tech] Bosch
 bosch san ve tic a s                                                #Company [Engineering, Tech] Bosch
@@ -1409,10 +1422,12 @@ espn inc                                                            #Company [En
 home box office inc                                                 #Company [Entertainment] HBO
 hearst business media corporation                                   #Company [Entertainment] Hearst
 hearst communications inc                                           #Company [Entertainment] Hearst
+hearst corporation                                                  #Company [Entertainment] Hearst
 hearst magazines inc                                                #Company [Entertainment] Hearst
 hearst media services connecticut llc                               #Company [Entertainment] Hearst
 hearst newspapers ii llc                                            #Company [Entertainment] Hearst
 hearst newspapers llc                                               #Company [Entertainment] Hearst
+hearst properties inc                                               #Company [Entertainment] Hearst
 hearst television inc                                               #Company [Entertainment] Hearst
 the hearst corporation                                              #Company [Entertainment] Hearst
 inmusic brands inc                                                  #Company [Entertainment] inMusic
@@ -1485,6 +1500,8 @@ informa egypt llc                                                   #Company [Ev
 informa exhibitions us                                              #Company [Event Manager] Informa
 informa middle east limited                                         #Company [Event Manager] Informa
 nforma uk limited                                                   #Company [Event Manager] Informa
+adp                                                                 #Company [Financial] ADP
+adp inc                                                             #Company [Financial] ADP
 adp llc                                                             #Company [Financial] ADP
 amtrust financial services inc                                      #Company [Financial] Amtrust Financial
 baillie gifford co                                                  #Company [Financial] Baillie Gifford & Co
@@ -1513,6 +1530,7 @@ synchrony financial                                                 #Company [Fi
 the financial times limited                                         #Company [Financial] The Financial Times
 thrivent financial for lutherans                                    #Company [Financial] Thrivent Financial
 wealthsimple financial inc                                          #Company [Financial] Wealthsimple Financial
+world financial group inc                                           #Company [Financial] World Financial Group
 rheinmetall ag                                                      #Company [Firearms] Rheinmetall
 smith wesson                                                        #Company [Firearms] Smith & Wesson
 8th avenue food and provisions inc                                  #Company [Food] 8th Avenue Food
@@ -1554,6 +1572,7 @@ american petroleum institute                                        #Company [Ga
 chevron corp                                                        #Company [Gas] Chevron Corporation
 chevron corporation                                                 #Company [Gas] Chevron Corporation
 exxon mobil corporation                                             #Company [Gas] ExxonMobil
+occidental petroleum corporation                                    #Company [Gas] Occidental Petroleum Co
 petroleum heat power co inc                                         #Company [Gas] Petroleum Heat and Power Co
 shell canada limited                                                #Company [Gas] Shell
 shell international petroleum company limited                       #Company [Gas] Shell
@@ -1696,6 +1715,7 @@ hartford fire insurance company                                     #Company [In
 hbf health limited                                                  #Company [Insurance] HBF Health
 john hancock life insurance company                                 #Company [Insurance] John Hancock Financial
 liberty mutual insurance company                                    #Company [Insurance] Liberty Mutual
+lincoln financial group                                             #Company [Insurance] Lincoln Financial
 marsh mclennan companies inc                                        #Company [Insurance] Marsh McLennan
 metropolitan life insurance company                                 #Company [Insurance] MetLife
 national general insurance                                          #Company [Insurance] National General Insurance
@@ -1720,6 +1740,7 @@ zurich insurance company ltd                                        #Company [In
 centurylink communications llc                                      #Company [ISP] CenturyLink
 centurylink inc                                                     #Company [ISP] CenturyLink
 charter communications operating llc                                #Company [ISP] Charter Communications
+norton rose fulbright us llp                                        #Company [Law Firm] Norton Rose Fulbright
 3m canada company                                                   #Company [Manufacturing] 3M
 3m chile sa                                                         #Company [Manufacturing] 3M
 3m company                                                          #Company [Manufacturing] 3M
@@ -1771,6 +1792,7 @@ paypal inc                                                          #Company [Pa
 paypal pte ltd                                                      #Company [Payment System] Paypal
 us bankcard services                                                #Company [Payment System] US Bankcard Services (USBS)
 visa canada corporation                                             #Company [Payment System] Visa
+visa europe limited                                                 #Company [Payment System] Visa
 visa international asia pacific korea ltd                           #Company [Payment System] Visa
 visa international service association                              #Company [Payment System] Visa
 pitney bowes inc                                                    #Company [Parcel] Pitney Bowes
@@ -1846,6 +1868,7 @@ holy trinity lutheran church                                        #Company [Re
 immanuel lutheran church                                            #Company [Religion]
 king of kings lutheran church                                       #Company [Religion]
 liberty baptist church                                              #Company [Religion]
+lighthouse baptist church                                           #Company [Religion]
 living church of god inc                                            #Company [Religion]
 lord of life lutheran church                                        #Company [Religion]
 messiah lutheran church                                             #Company [Religion]
@@ -2057,6 +2080,8 @@ fca italy spa                                                       #Company [Ve
 ford credit canada limited                                          #Company [Vehicle] Ford
 ford motor company                                                  #Company [Vehicle] Ford
 ford otomotiv san as                                                #Company [Vehicle] Ford
+general motors de argentina sociedad de responsabilidad limitada    #Company [Vehicle] GM
+general motors de mexico s de rl de cv                              #Company [Vehicle] GM
 general motors llc                                                  #Company [Vehicle] GM
 general motors of canada company                                    #Company [Vehicle] GM
 gm financial                                                        #Company [Vehicle] GM
@@ -2085,11 +2110,16 @@ dr ing hc f porsche ag                                              #Company [Ve
 dr ing hc f porsche aktiengesellschaft                              #Company [Vehicle] Porsche
 porsche informatik gesmbh                                           #Company [Vehicle] Porsche
 rollsroyce motor cars limited                                       #Company [Vehicle] Rolls Royce
+llc subaru motor                                                    #Company [Vehicle] Subaru
+subaru canada inc                                                   #Company [Vehicle] Subaru
 subaru corporation                                                  #Company [Vehicle] Subaru
+subaru italia spa                                                   #Company [Vehicle] Subaru
+subaru nordic ab                                                    #Company [Vehicle] Subaru
 tesla motors                                                        #Company [Vehicle] Tesla
 toyota canada inc                                                   #Company [Vehicle] Toyota
 toyota motor corporation                                            #Company [Vehicle] Toyota
 toyota motor credit corporation                                     #Company [Vehicle] Toyota
+toyota motor italia spa                                             #Company [Vehicle] Toyota
 toyota motor sales usa                                              #Company [Vehicle] Toyota
 triumph motorcycles limited                                         #Company [Vehicle] Triumph
 triumph motorcycles srl                                             #Company [Vehicle] Triumph
