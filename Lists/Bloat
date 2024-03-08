@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 893
-# Updated: 3/6/2024  17:10 (5:10 PM CST)
+# Domains: 896
+# Updated: 3/7/2024  22:04 (10:04 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -122,6 +122,8 @@ fonts.ea.com                                            #Font  Specific
 fonts.evitecdn.com                                      #Font  Specific
 fonts.fandango.com                                      #Font  Specific
 fonts.foxsports.com                                     #Font  Specific
+fonts.garmin.com.cdn.cloudflare.net                     #Font  Specific
+fonts.garmin.com                                        #Font  Specific
 fonts.hamburg.de                                        #Font  Specific
 fonts.intercomcdn.com                                   #Font  Specific
 fonts.iu.edu                                            #Font  Specific
@@ -145,6 +147,7 @@ fonts.smdg.ca                                           #Font  Specific
 fonts.sony.net                                          #Font  Specific
 fonts.staticworld.net                                   #Font  Specific
 fonts.tildacdn.com                                      #Font  Specific
+fonts.twitter.com                                       #Font  Specific
 fonts.ub-assets.com                                     #Font  Specific
 fonts.voxmedia.com                                      #Font  Specific
 fonts.walmart.com                                       #Font  Specific
