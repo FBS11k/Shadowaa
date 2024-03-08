@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 64,667
-# Updated: 3/8/2024  13:05 (1:05 PM CST)
+# Domains: 64,670
+# Updated: 3/8/2024  13:37 (1:37 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -12307,6 +12307,7 @@ apis.murdoog.com
 api.snapkit.com
 api.sosiago.id
 api-stagingtwo.cgstatic.info
+api.subdl.com
 api.tech26.de
 api-track.hygraph.com
 api-triangle.canadiantire.ca
@@ -41717,6 +41718,7 @@ providers.panfoundation.org
 proxem.com
 proximic.com
 proxsee.io
+proxy.angelstudios.com
 pr.retire.americanfunds.com
 pr.sunpowermarketing.co.uk
 pr.tac.co.jp
@@ -59859,6 +59861,7 @@ wheelioapp.azureedge.net
 whenu.com
 wheredoyoucomefrom.ovh
 whereismyip.org
+wheres-waldo-angel.herokuapp.com
 whimsicalgrove.com
 whineattempt.com
 whippet.ianglover.com
