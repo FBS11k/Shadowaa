@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,752
-# Updated: 3/8/2024  07:12 (7:12 AM CST)
+# Domains: 12,754
+# Updated: 3/8/2024  10:18 (10:18 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1668,6 +1668,7 @@ broalen.com
 brongersburmesekittens.com
 brooksidepomskies.com
 brooks-running.shop
+brooksshoes.net
 brotherdriver.com
 brotheronlinehelp.com
 brotherprinterdriver.live
@@ -7457,6 +7458,7 @@ mommytobe.in
 momodistribution.com
 momonaglobal.com
 momoxxio.com
+momsgetnaughty.com
 monchparts.com
 monetarysupplycompany.com
 moneyinsurveys.com

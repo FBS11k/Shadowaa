@@ -690,6 +690,7 @@ ao kaspersky lab                                                    #Company [An
 joint stock company kaspersky lab                                   #Company [Antivirus] Kaspersky
 kaspersky lab                                                       #Company [Antivirus] Kaspersky
 kasperskylab                                                        #Company [Antivirus] Kaspersky
+american state bank                                                 #Company [Bank] American State Bank
 absa bank limited                                                   #Company [Bank] Absa Group
 australia and new zealand banking group limited                     #Company [Bank] ANZ Bank
 bank of america corporation                                         #Company [Bank] Bank of America
@@ -2084,6 +2085,7 @@ dr ing hc f porsche ag                                              #Company [Ve
 dr ing hc f porsche aktiengesellschaft                              #Company [Vehicle] Porsche
 porsche informatik gesmbh                                           #Company [Vehicle] Porsche
 rollsroyce motor cars limited                                       #Company [Vehicle] Rolls Royce
+subaru corporation                                                  #Company [Vehicle] Subaru
 tesla motors                                                        #Company [Vehicle] Tesla
 toyota canada inc                                                   #Company [Vehicle] Toyota
 toyota motor corporation                                            #Company [Vehicle] Toyota

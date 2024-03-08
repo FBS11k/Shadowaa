@@ -2,8 +2,8 @@
 ###############################################
 # Automotive
 ###############################################
-genericagiledealer.blob.core.windows.net/images/content/
 api.dealerteamwork.com/dt/
+//assets.prod.analytics.dealer.com/
 automanager.blob.core.windows.net/
 carbaselive.com/
 .carchat24.com/
@@ -22,6 +22,7 @@ dealer-marketing-assets.s3.amazonaws.com/
 .dealerspike.net/
 .drivecentric.io/
 gb1.gubagoo.com/
+genericagiledealer.blob.core.windows.net/images/content/
 .getprodigy.com/
 images.dealer.com/
 images.remorainc.com/
