@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,754
-# Updated: 3/8/2024  10:18 (10:18 AM CST)
+# Domains: 12,755
+# Updated: 3/11/2024  09:48 (9:48 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -8336,6 +8336,7 @@ oraioninvestment.com
 orangestee.com
 orangetargetammo.net
 orangetransglobal.com
+orasliving.com
 orbusinessdaily.com
 orchtraeter.com
 ordercocaineforsale.com

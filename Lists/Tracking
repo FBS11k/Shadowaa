@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 64,670
-# Updated: 3/8/2024  13:37 (1:37 PM CST)
+# Domains: 64,672
+# Updated: 3/11/2024  09:48 (9:48 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -19376,6 +19376,7 @@ floweryflavor.com
 floweryoperation.com
 flowmeter.oval.co.jp
 flowmill.com
+flowpoint.ai
 fl.peoplestrustinsurance.com
 flrdra.com
 flrtni.com
@@ -19720,7 +19721,6 @@ functionalcrown.com
 functionalfeather.com
 funding.365businessfinance.co.uk
 funding.capbytfc.com
-fundraiseup.com
 fundraising.worldsfinestchocolate.com
 funds.cromwell.com.au
 fun.incrediblepizza.com
@@ -44438,6 +44438,7 @@ sent.petdesk.com
 sentrant.com
 sentry.101soundboards.com
 sentry-cdn.com
+sentry.fundraiseup.com
 sentry-internal.temp-mail.io
 sentry.io
 sentry.issuu.com
@@ -56498,6 +56499,7 @@ tarantula.emotionalbaking.com
 tarantula.hashicorp.com
 tarantula.searchbox.tech
 tarantula.tuxedo.media
+t.arcade.show
 target2sell.com
 target.bankofamerica.com
 target.chase.com
