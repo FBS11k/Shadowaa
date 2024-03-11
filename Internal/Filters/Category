@@ -1,5 +1,4 @@
 api.dealerteamwork.com/dt/
-asset.bloomnation.com/
 //assets.prod.analytics.dealer.com/
 automanager.blob.core.windows.net/
 carbaselive.com/
@@ -24,9 +23,10 @@ genericagiledealer.blob.core.windows.net/images/content/
 .getprodigy.com/
 images.dealer.com/
 images.remorainc.com/
-.images.worldnow.com/images/
 lender.autofi.com/
 pictures.dealer.com/
 r.remorainc.com/
 .sincrod.com/
 vimg.remorainc.com/
+asset.bloomnation.com/
+.images.worldnow.com/images/
