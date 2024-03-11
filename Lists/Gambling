@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 3,118
-# Updated: 3/8/2024  13:05 (1:05 PM CST)
+# Domains: 3,120
+# Updated: 3/11/2024  15:43 (3:43 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2541,6 +2541,7 @@ playperfectblackjack.com
 play-poker-game.com
 playslots.xyz
 playtech-casinos.com
+playtika.com
 pmbet.co.tz
 pointsbet.com
 pokerarc.xyz
@@ -3111,6 +3112,7 @@ worldwidegamble.com
 worldwinner.com
 worstcasinoreviews.ca
 wplay.co
+www61baywin.com
 xbetg.ru
 xbetq.ru
 xcasino.com.ph
