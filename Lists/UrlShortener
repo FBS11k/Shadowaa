@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,190
-# Updated: 3/7/2024  17:48 (5:48 PM CST)
+# Domains: 2,193
+# Updated: 3/12/2024  11:27 (11:27 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1371,6 +1371,7 @@ putar.win
 pwgo.to
 pxlcrv.co
 pxl.fm
+pygy.co
 py.md
 pymd.org
 q8at.link
@@ -1513,6 +1514,7 @@ senin.lol
 serveracts.net
 serverpa.rs
 s.evx.ca
+sexy.jill.survive.from.the.monster
 sg0.co
 s.gdngs.de
 sgrtldm.com
@@ -1734,6 +1736,7 @@ suoc.me
 suo.su
 superbidmagnet.com
 superbl.ink
+support-online-mail.cloud.wpontos-app.cloud
 supportsae.com
 supurlman.com
 sura.pw

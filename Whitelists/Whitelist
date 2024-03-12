@@ -123,6 +123,7 @@ swdownload.apple.com                                #Apple   Updates
 swquery.apple.com                                   #Apple   Updates
 swscan.apple.com                                    #Apple   Updates
 web-experience.itunes.apple.com                     #Apple   Website (Images)
+notifications-pa.googleapis.com                  #Google   2FA - Sends notification to phone/tablet
 cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
 ota-cache1.googlezip.net                         #Google   Android (System Updates)
 play-lh.googleusercontent.com                    #Google   Android Store Images

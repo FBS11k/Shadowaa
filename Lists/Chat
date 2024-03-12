@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 397
-# Updated: 3/11/2024  15:43 (3:43 PM CST)
+# Domains: 398
+# Updated: 3/12/2024  11:27 (11:27 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -107,6 +107,7 @@ chatpath.com
 chatplus.jp
 chat-proxy-service.thulium.com
 chatra.io
+chat.rumahweb.com
 chatserver11.comm100.io
 chatserver1.comm100.io
 chat.sharpen.cx
