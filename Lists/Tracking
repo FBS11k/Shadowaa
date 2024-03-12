@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 64,687
-# Updated: 3/11/2024  15:43 (3:43 PM CST)
+# Domains: 64,688
+# Updated: 3/11/2024  20:08 (8:08 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -19753,6 +19753,7 @@ fuzzyerror.com
 fuzzyflavor.com
 fuzzyweather.com
 fvl1f.pw
+fw-cdn.com
 fwef.firstwesternef.com
 fw.ferno.com
 fwpixel.com
