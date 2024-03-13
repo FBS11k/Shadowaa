@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 64,688
-# Updated: 3/11/2024  20:08 (8:08 PM CST)
+# Domains: 64,690
+# Updated: 3/12/2024  21:05 (9:05 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -13783,7 +13783,6 @@ brewmee.maatoo.io
 bridge.dplfp.com
 briefbears.com
 briefstem.com
-brightback.com
 brightedge.com
 brighteroption.com
 brightfunnel.com
@@ -18830,6 +18829,7 @@ events.photosat.ca
 event.spotxchange.com
 events.prd.api.max.com
 events.privy.com
+events.prod.brightback.com
 events.qortex.ai
 events.reddit.com
 events.redditmedia.com
@@ -18886,6 +18886,7 @@ e.viously.com
 evisitanalyst.com
 evivebenefits.com
 ev.kck.st
+evnt.byspotify.com
 evnt.nmgplatform.com
 evoke.fr
 evolution360.com
@@ -40594,6 +40595,7 @@ pixel.blivenyc.com
 pixel.bordadoacademy.com
 pixel.bridge.dooca.store
 pixel.brokerhunter.com.br
+pixel.byspotify.com
 pixel.canvapackmho.com
 pixel.carolnsmkt.com
 pixel.casalprospero.com.br
