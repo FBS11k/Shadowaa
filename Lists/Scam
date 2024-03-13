@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,811
-# Updated: 3/12/2024  21:05 (9:05 PM CST)
+# Domains: 12,813
+# Updated: 3/13/2024  17:10 (5:10 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -5893,6 +5893,8 @@ igorousinel.com
 iguana-paddlefish-fz6a.squarespace.com
 iguruservices.com
 igzon.com
+iisex5.com
+iisex.shop
 ijprinterdriver.com
 ijscanutility.co.uk
 ijsetupcanon.com
