@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,813
-# Updated: 3/13/2024  17:10 (5:10 PM CST)
+# Domains: 12,814
+# Updated: 3/14/2024  17:58 (5:58 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -9770,6 +9770,7 @@ reviewshirts.com
 reviewtees.com
 reviversoft.com
 revolutionaryfireams.com
+revouninstaller.pro
 rewardcircular.com
 rewardcoo.com
 rewardrobux.com
