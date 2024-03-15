@@ -575,8 +575,9 @@ zserver sro                                                                     
 # Person's Name
 #####################################################
 alessandro battaglini                                                                   #Generic
-daniele martin                                                                          #Generic
 brenda campbell                                                                         #Generic
+daniele martin                                                                          #Generic
+dario baumgartner                                                                       #Generic
 francisco                                                                               #Generic
 hallmatthew                                                                             #Generic
 jan cifra                                                                               #Generic
@@ -596,7 +597,9 @@ matt morrison                                                                   
 matt schu                                                                               #Generic
 matt skallerud                                                                          #Generic
 matt wilson                                                                             #Generic
+merridith robinson                                                                      #Generic
 milan behro                                                                             #Generic
+nasir mercer                                                                            #Generic
 paolo furieri                                                                           #Generic
 robby vandarkaay                                                                        #Generic
 seiji watanabe                                                                          #Generic
@@ -605,8 +608,6 @@ thanya wattanaphichet                                                           
 yan rong jie                                                                            #Generic
 yanrongjie                                                                              #Generic
 zhang jing                                                                              #Generic
-nasir mercer                                                                            #Generic
-dario baumgartner                                                                       #Generic
 
 
 #####################################################
@@ -816,6 +817,7 @@ royal unibrew as                                                    #Company [Dr
 salla                                                               #Company [E-Commerce] Salla
 advtech the independent institute of education pty ltd                       #Company [Education] AdvTech
 discovery education inc                                                      #Company [Education] Discovery
+discovery institute                                                          #Company [Education] Discovery
 educational testing service                                                  #Company [Education] ETS
 limited liabilily company research and education center erudite              #Company [Education] Erudite
 foundation for educational services                                          #Company [Education] Foundation For Educational Services
