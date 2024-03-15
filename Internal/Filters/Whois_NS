@@ -13,10 +13,12 @@
 1clickcloud.uk                            #Generic
 1stdomains.net.nz                         #Generic
 a2hosting.com                             #Generic
+a.ezdnscenter.com                         #Generic
 agenturserver.co                          #Generic
 agenturserver.de                          #Generic
 agenturserver.it                          #Generic
 akam.net                                  #Generic
+alfahosting.info                          #Generic
 alidns.com                                #Generic
 amenworld.com                             #Generic
 anycast.me                                #Generic
@@ -36,6 +38,7 @@ bdm.microsoftonline.com                   #Generic
 beget.com                                 #Generic
 beget.pro                                 #Generic
 beget.ru                                  #Generic
+b.ezdnscenter.com                         #Generic
 bigrock.in                                #Generic
 bluehost.com                              #Generic
 bluehost.in                               #Generic
@@ -56,8 +59,11 @@ cdmondns-01.com                           #Generic
 cdmondns-01.org                           #Generic
 cdmon.net                                 #Generic
 cheapdomains.com.au                       #Generic
+cloud1.whc.ca                             #Generic
+cloud2.whc.ca                             #Generic
 cloudns.net                               #Generic
 cloudpark.by                              #Generic
+cnmsn.net                                 #Generic
 conoha.io                                 #Generic
 constellix.com                            #Generic
 constellix.net                            #Generic
@@ -72,7 +78,9 @@ delete-host.com                           #Generic
 digitalocean.com                          #Generic
 dinahosting.com                           #Generic
 discountdomains.co.nz                     #Generic
+dns0.heteml.jp                            #Generic
 dns1.co.za                                #Generic
+dns1.heteml.jp                            #Generic
 dns2.co.za                                #Generic
 dns.com                                   #Generic
 dns-diy.com                               #Generic
@@ -104,6 +112,7 @@ dreamhost.com                             #Generic
 d.register.com                            #Generic
 driftshotellet.com                        #Generic
 dyna-ns.net                               #Generic
+d-zone.ca                                 #Generic
 earthlink.net                             #Generic
 earth.orderbox-dns.com                    #Generic
 easydns.com                               #Generic
@@ -118,6 +127,7 @@ eurodns.com                               #Generic
 expired-ns.com                            #Generic
 expired.r01.ru                            #Generic
 expirenotification.com                    #Generic
+ezdnscenter.com                           #Generic
 ezoicns.com                               #Generic
 fastdns24.com                             #Generic
 fastdns24.eu                              #Generic
@@ -192,6 +202,7 @@ liquidweb.com                             #Generic
 livedns.co.uk                             #Generic
 locaweb.com.br                            #Generic
 lolipop.jp                                #Generic
+loopiagroup.com                           #Generic
 loopia.se                                 #Generic
 lwsdns.com                                #Generic
 managed-vps.net                           #Generic
@@ -202,6 +213,7 @@ master.parkovka.ua                        #Generic
 matbao.com                                #Generic
 mdnsservice.com                           #Generic
 mediatemple.net                           #Generic
+megagroup.ru                              #Generic
 mercury.orderbox-dns.com                  #Generic
 messagingengine.com                       #Generic
 mihanwebhost.com                          #Generic
@@ -380,6 +392,7 @@ vercel-dns.com                            #Generic
 vhost1-de.parkovka.ua                     #Generic
 vhost2-de.parkovka.ua                     #Generic
 vivawebhost.com                           #Generic
+vps.ovh.net                               #Generic
 webdomain.info                            #Generic
 webempresa.eu                             #Generic
 web-hosting.com                           #Generic
@@ -523,17 +536,53 @@ ns02.cashparking.com                          #Parked
 ns1.above.com                                 #Parked
 ns1.abovedomains.com                          #Parked
 ns1.dnsparking.com                            #Parked
-ns1.domainparking.ru                          #Parked
 ns1.sslparking.com                            #Parked
 ns2.above.com                                 #Parked
 ns2.abovedomains.com                          #Parked
 ns2.dnsparking.com                            #Parked
-ns2.domainparking.ru                          #Parked
 ns2.sslparking.com                            #Parked
 ns.ai                                         #Parked
+park11.secureserver.net                       #Parked
+park12.secureserver.net                       #Parked
+park1.alastyr.com                             #Parked
+park1.dccdns.com                              #Parked
+park1.dns.ws                                  #Parked
+park1.domainsregistrationapi.com              #Parked
+park1.encirca.net                             #Parked
+park1.hostholic.com                           #Parked
+park1.linesis.com                             #Parked
 park1.livedns.co.il                           #Parked
+park1.managedns.org                           #Parked
+park1.newdomain.com.au                        #Parked
+park1.pauza.net                               #Parked
+park1.resellerhub.com                         #Parked
+park1.turkticaret.net                         #Parked
+park1.tuthost.com                             #Parked
+park1.veridyen.com                            #Parked
+park2.alastyr.com                             #Parked
+park2.dccdns.com                              #Parked
+park2.dns.ws                                  #Parked
+park2.domainsregistrationapi.com              #Parked
+park2.encirca.net                             #Parked
+park2.hostholic.com                           #Parked
+park2.linesis.com                             #Parked
 park2.livedns.co.il                           #Parked
+park2.managedns.org                           #Parked
+park2.newdomain.com.au                        #Parked
+park2.pauza.net                               #Parked
+park2.resellerhub.com                         #Parked
+park2.turkticaret.net                         #Parked
+park2.tuthost.com                             #Parked
+park2.veridyen.com                            #Parked
+park3.dccdns.com                              #Parked
+park3.dns.ws                                  #Parked
+park4.dccdns.com                              #Parked
+park4.dns.ws                                  #Parked
+park6.dracoola.net                            #Parked
 park7.ru                                      #Parked
+park7.secureserver.net                        #Parked
+park8.secureserver.net                        #Parked
+park9.dracoola.net                            #Parked
 parkco1.neustar.biz                           #Parked
 parkco2.neustar.biz                           #Parked
 parkdomainwithait.com                         #Parked
@@ -578,13 +627,37 @@ ukit-expired.com                              #Parked
 us.parkmy.name                                #Parked
 yourdomainhasexpired.com                      #Parked
 yourdomainisexpired.com                       #Parked
+ns1-suspended.netart-registrar.com            #Parked
+ns1-suspended.zxcs.nl                         #Parked
+ns2-suspended.netart-registrar.com            #Parked
+ns2-suspended.zxcs.be                         #Parked
+ns3-suspended.zxcs.de                         #Parked
+suspended1.web4africa.com                     #Parked
+suspended2.web4africa.com                     #Parked
+suspended.kreativmedia.ch                     #Parked
+suspended.nic.tr                              #Parked
+parking1.chtdnadmin.tw                        #Parked
+parking1.netjust.com                          #Parked
+parking2.chtdnadmin.tw                        #Parked
+parking2.netjust.com                          #Parked
+parking3.netjust.com                          #Parked
+parking-ns01.datev.de                         #Parked
+parking-ns02.datev.com                        #Parked
+parking.webhero.com                           #Parked
+dns-parking.com.bemweb.com.ar                 #Parked
+dns-parking.com.descargargratis.com.ar        #Parked
+dns-parking.com.gdcdreams.com.ar              #Parked
+dns-parking.com.mr-magoo.com.ar               #Parked
 
 
 ##############################################
 #  Company
 ##############################################
 jetbluedns.com                            #Company [Airport] JetBlue Airways
-highschoolnetwork.net                     #Company [Education] 
+bowvalleycollege.ca                       #Company [Education]
+educationinturkey.org                     #Company [Education]
+highschoolnetwork.net                     #Company [Education]
+hof-university.de                         #Company [Education]
 sega.co.uk                                #Company [Entertainment] Sega
 warnerbros.com                            #Company [Entertainment] Warner Bros.
 smith-wesson.net                          #Company [Firearms] Smith & Wesson
