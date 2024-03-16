@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 71,648
-# Updated: 3/16/2024  13:27 (1:27 PM CST)
+# Domains: 71,650
+# Updated: 3/16/2024  14:08 (2:08 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -44037,6 +44037,7 @@ plausible.vinzius.com
 plausible.vodlix.com
 plausible.vojak.cloud
 plausible.vpsbenchmarks.com
+plausible.vucar.vn
 plausible.vvyp3.de
 plausible.waas.site
 plausible.wecreatedigital.co.uk
@@ -44583,6 +44584,7 @@ publicsecure.simeiosolutions.com
 publicsite-api.catholicunitedfinancial.org
 publisher-news.com
 publishers-on.com
+publytics.net
 pubocean.com
 pubperf.com
 pub.sensysnetworks.com
