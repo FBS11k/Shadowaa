@@ -1,6 +1,9 @@
 ##############################################
 #    Generic / Web Design / Web Host
 ##############################################
+domainoffensive.net                       #Generic
+domainoffensive.eu                        #Generic
+domainoffensive.de                        #Generic
 123hotel.dk                               #Generic
 1and1-dns.biz                             #Generic
 1and1-dns.com                             #Generic
@@ -272,6 +275,8 @@ mywhc.ca                                  #Generic
 nacault1.armadaservers.com                #Generic
 namebrightdns.com                         #Generic
 namecheaphosting.com                      #Generic
+dns1.namecheaphosting.com                 #Generic
+dns2.namecheaphosting.com                 #Generic
 name.com                                  #Generic
 nameserver1.co.za                         #Generic
 nameserver2.co.za                         #Generic
@@ -750,6 +755,7 @@ ukit-expired.com                              #Parked
 us.parkmy.name                                #Parked
 yourdomainhasexpired.com                      #Parked
 yourdomainisexpired.com                       #Parked
+expirationwarning.net                         #Parked
 
 
 ##############################################
