@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 13,656
-# Updated: 3/18/2024  00:53 (12:53 AM CST)
+# Domains: 13,657
+# Updated: 3/18/2024  09:50 (9:50 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -9481,6 +9481,7 @@ partypoker616.com
 partypoker-bot.com
 partypokercd.com
 partypoker.cz
+partypoker.es
 partypokerinstant.info
 partypokeririshpokerchampionships.net
 party-pokermonster.net
