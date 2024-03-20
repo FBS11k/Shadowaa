@@ -1,9 +1,8 @@
 #
 #    File: Marketing
 #    Info: Web Marketing / Ebay Listing Tools
-# Domains: 328
-# Updated: 9/27/2023  15:22 (3:22 PM CST)
-# Creator: ShadowWhisperer (Sean H.)
+# Domains: 327
+# Updated: 3/19/2024  19:05 (7:05 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -173,7 +172,6 @@ neolane.net                        #NeoLane
 kaspersky-s.neolane.net            #NeoLane
 oghub.io                           #Otto Group
 ottogroup.com                      #Otto Group
-paddle.com                         #Paddle
 wearephoenixteam.com               #PhoenixTeam
 plentymarkets.com                  #PlentyMarkets
 plumdistrict.com                   #Plum District
